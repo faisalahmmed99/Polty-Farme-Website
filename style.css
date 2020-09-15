@@ -1,0 +1,202 @@
+
+/* **************************Navber section start******************************* */
+.Navber{
+    background-color: #69072A !important;
+}
+.Navber img{
+    width: 150px;
+    height: auto;
+}
+.Navber a{
+    color: white;
+}
+.nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: white !important;
+}
+.dropdown-menu{
+    background-color: #69072A !important;
+    color: white ;
+}
+/* **************************Navber section close******************************* */
+
+
+
+/* **************************Banner section Start******************************* */
+
+
+.banner{
+    background-image: url("images/banner-two.png");
+    width: 100%;
+    height: 100vh;
+    background-image-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    left: 0;
+    right: 0;
+}
+
+.cow{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%,-50%);
+}
+.Banner-button{
+    width: 60%;
+    margin: auto;
+}
+.Banner-button-one{
+    background-color: #69072A;
+    padding: 10px 30px;
+    border-radius: 5%;
+}
+.Banner-button-one a{
+    background-color: #69072A;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+
+}
+
+
+.Banner-button-two{
+    background-color: #82B440;
+    padding: 10px 40px;
+    border-radius: 5%;
+}
+.Banner-button-two a{
+    background-color: #82B440;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+
+
+.banner-bottom{
+    background-image: url("images/bottom-frame-Preview-before-buy.png");
+    height: 100px;
+    width: 100%;
+    margin-top: -60px;
+    position: relative;
+}
+/* **************************Banner section Close******************************* */
+
+
+
+
+
+/* **************************Demo Images section start******************************* */
+.DemoImg{
+    background-image: url("images/BG-Preview-before-buy.jpg");
+    width: 100%;
+    height: auto;
+    background-image-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    overflow: hidden;
+}
+.Classic-btn{
+    background-color: #69072A;
+    padding: 15px 70px;
+    border-radius: 10%;
+}
+.Classic-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.Classic-btn:hover{
+opacity: .5;
+}
+/* **************************Demo Images section  Close******************************* */
+
+
+
+
+/* **************************just perfect section start******************************* */
+.Section-Design{
+    width: 100%;
+    height: 100vh;
+    background-color: #ddd;
+    padding: 5%;
+}
+.collem-text{
+    margin-top: 100px;
+    color: #69072A;
+    font-size: 45px;
+    letter-spacing: 1px;
+}
+.text h1{
+    font-weight: 700;
+}
+.text p{
+    font-size:16px;
+    line-height:32px;
+    vertical-align:baseline;
+    letter-spacing:1px;
+    word-spacing:0px;
+    margin:0px;
+    padding: 0px;
+    margin-bottom: 5px;
+    padding: 2%;
+}
+.text button{
+    padding: 10px 60px;
+    background-color: #82B440;
+    border-radius: 10px;
+}
+.text button a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+/* **************************just perfect section close******************************* */
+
+
+
+/* **************************About Us section start ******************************* */
+
+.wiget-section{
+    background-color: #69072A;
+    height: 500px;
+    padding: 5%;
+    color: white;
+}
+.form-control {
+    background-color: #69072a !important;
+    border: 1px solid #000 !important;
+}
+textarea {
+        background: #69072a !important;
+        border: 1px solid #000 !important;
+}
+.btn {
+    width: 100% !important;
+    background-color: #20e147 !important;
+}
+
+input::placeholder{
+    color:white !important;
+}
+
+textarea::placeholder{
+    color:white !important;
+}
+/* **************************About Us section close ******************************* */
+
+
+
+
+/* **************************  Footer section start ******************************* */
+.Footer-Icon i{
+    font-size: 20px;
+    margin-left: 10px;
+    color: red;
+}
+/* **************************  Footer section close ******************************* */
